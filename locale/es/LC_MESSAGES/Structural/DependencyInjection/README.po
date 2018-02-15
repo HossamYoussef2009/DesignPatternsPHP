@@ -75,8 +75,8 @@ msgid "Code"
 msgstr ""
 
 #: ../../Structural/DependencyInjection/README.rst:46
-msgid "You can also find these code on `GitHub`_"
-msgstr ""
+msgid "You can also find this code on `GitHub`_"
+msgstr "Puedes encontrar el código en `GitHub`_"
 
 #: ../../Structural/DependencyInjection/README.rst:48
 msgid "AbstractConfig.php"

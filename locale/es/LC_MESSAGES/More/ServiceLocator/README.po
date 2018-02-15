@@ -58,8 +58,8 @@ msgid "Code"
 msgstr ""
 
 #: ../../More/ServiceLocator/README.rst:36
-msgid "You can also find these code on `GitHub`_"
-msgstr ""
+msgid "You can also find this code on `GitHub`_"
+msgstr "Puedes encontrar el código en `GitHub`_"
 
 #: ../../More/ServiceLocator/README.rst:38
 msgid "ServiceLocatorInterface.php"

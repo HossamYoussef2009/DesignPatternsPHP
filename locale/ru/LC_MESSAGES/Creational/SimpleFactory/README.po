@@ -20,25 +20,28 @@ msgid "Purpose"
 msgstr "Назначение"
 
 #: ../../Creational/SimpleFactory/README.rst:7
-msgid "ConcreteFactory is a simple factory pattern."
-msgstr "ConcreteFactory в примере ниже, это паттерн «Простая Фабрика»."
+msgid "SimpleFactory is a simple factory pattern."
+msgstr "SimpleFactory в примере ниже, это паттерн «Простая Фабрика»."
 
 #: ../../Creational/SimpleFactory/README.rst:9
 msgid ""
-"It differs from the static factory because it is NOT static and as you know:"
-" static => global => evil!"
+"It differs from the static factory because it is not static."
 msgstr ""
 "Она отличается от Статической Фабрики тем, что собственно *не является "
-"статической*. Потому как вы должны знаеть: статическая => глобальная => зло!"
+"статической*. Потому как вы должны понимать: статическая => глобальная => зло!"
 
-#: ../../Creational/SimpleFactory/README.rst:12
+#: ../../Creational/SimpleFactory/README.rst:10
 msgid ""
-"Therefore, you can have multiple factories, differently parametrized, you "
-"can subclass it and you can mock-up it."
+"Therefore, you can have multiple factories, differently parametrized, you can subclass it and you can mock it."
 msgstr ""
-"Таким образом, вы можете иметь несколько фабрик, параметризованных "
-"различным образом. Вы можете унаследовать их и создавать макеты для "
-"тестирования."
+"Поэтому, вы можете иметь несколько фабрик, параметризованных различным "
+"образом. Вы можете унаследовать их и создавать макеты для тестирования."
+
+#: ../../Creational/SimpleFactory/README.rst:11
+msgid ""
+"It always should be preferred over a static factory!"
+msgstr ""
+"Простая фабрика всегда должна быть предпочтительнее статичной фабрики"
 
 #: ../../Creational/SimpleFactory/README.rst:16
 msgid "UML Diagram"
@@ -49,12 +52,12 @@ msgid "Code"
 msgstr "Код"
 
 #: ../../Creational/SimpleFactory/README.rst:25
-msgid "You can also find these code on `GitHub`_"
+msgid "You can also find this code on `GitHub`_"
 msgstr "Вы можете найти этот код на `GitHub`_"
 
 #: ../../Creational/SimpleFactory/README.rst:27
-msgid "ConcreteFactory.php"
-msgstr "ConcreteFactory.php"
+msgid "SimpleFactory.php"
+msgstr "SimpleFactory.php"
 
 #: ../../Creational/SimpleFactory/README.rst:33
 msgid "VehicleInterface.php"
